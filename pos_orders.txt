@@ -1,22 +1,3 @@
-Cheeseburger
-Hotdog
-Hotdog
-Hamburger
-Cheeseburger
-Hotdog
-Hotdog
-Hamburger
-Cheeseburger
-Hotdog
-Hotdog
-13.5Hamburger
-Cheeseburger
-Cheeseburger
-Total: 12.0Hamburger
-Cheeseburger
-Hotdog
-Hotdog
-Total: 13.5
 Hamburger
 Cheeseburger
 Hotdog
