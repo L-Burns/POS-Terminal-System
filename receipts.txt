@@ -1,0 +1,101 @@
+Hamburger			3
+Hamburger			3
+Hamburger			3
+
+Hamburger			3
+Hamburger			3
+Hamburger			3
+
+Hamburger			3
+Hamburger			3
+
+Hamburger			3
+
+Hamburger			3
+Hamburger			3
+
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+
+Hamburger 			3.00
+
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+Hamburger 			3.00
+
+Hamburger 			3.00
+Chili Cheese Dog 			3.50
+Chili Cheese Dog 			3.50
+
+Hamburger 				3.00
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+
+Hamburger 				3.00
+Hamburger 				3.00
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Hamburger 				3.00
+
+Hamburger 				3.00
+Hamburger 				3.00
+Hamburger 				3.00
+Hamburger 				3.00
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Chili Cheese Dog 				3.50
+Hamburger 				3.00
+Hamburger 				3.00
+Hamburger 				3.00
+
+Hamburger 				3.00
+Cheeseburger 				4.50
+Hotdog 				3.00
+Chili Cheese Dog 				5.00
+Cheese Pizza 				3.50
+Pepperoni Pizza 				4.50
+Nachos 				6.00
+Salted Pretzel 				3.00
+Popcorn 				2.50
+Boxed Candy 				4.00
+Bottled Soda 				3.00
+Bottled Water 				3.00
+
